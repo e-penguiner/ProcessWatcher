@@ -11,3 +11,4 @@ env_logger = "0.9"
 serde = { version = "1.0", features = ["derive"] }
 wmi = "0.13.3"
 chrono = "0.4.38"
+serde_yaml = "0.9"
